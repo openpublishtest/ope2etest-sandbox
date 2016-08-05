@@ -13,8 +13,7 @@
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
-        "RestApi": "Content",
-        "AzureCli": "Content"
+        "RestApi": "Content"
       }
     },
     {
