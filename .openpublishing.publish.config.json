@@ -5,8 +5,8 @@
   "docsets_to_publish": [
     {
       "docset_name": "optest_testdocs",
-      "build_source_folder": "optest_testdocs",
-      "build_output_subfolder": "optest/docs/test",
+      "build_source_folder": "optest/test/docs",
+      "build_output_subfolder": "optest/test/docs",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": false,
@@ -18,7 +18,7 @@
     },
     {
       "docset_name": "optestdocs",
-      "build_source_folder": "optestdocs",
+      "build_source_folder": "optest/docs",
       "build_output_subfolder": "optest/docs",
       "locale": "en-us",
       "version": 0,
@@ -30,7 +30,9 @@
       }
     }
   ],
-  "notification_subscribers": [],
+  "notification_subscribers": [
+    "opbuild@microsoft.com"
+  ],
   "branches_to_filter": [
     "live"
   ],
