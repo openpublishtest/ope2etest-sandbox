@@ -4,19 +4,6 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "optest_testdocs",
-      "build_source_folder": "optest/docs/test",
-      "build_output_subfolder": "optest/docs/test",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      }
-    },
-    {
       "docset_name": "optestdocs",
       "build_source_folder": "optest/docs",
       "build_output_subfolder": "optest/docs",
