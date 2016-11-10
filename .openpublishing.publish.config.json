@@ -37,5 +37,6 @@
     "live"
   ],
   "skip_source_output_uploading": false,
-  "dependent_repositories": []
+  "dependent_repositories": [],
+  "need_generate_pdf_url_template": false
 }
